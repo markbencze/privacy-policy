@@ -1,7 +1,7 @@
 Privacy Policy
 Last updated: November 10, 2026
 
-This Privacy Policy describes how your information is handled when you use our mobile application (“SpeakOn Voice cmnds for Tesla") available on Google Play.
+This Privacy Policy describes how your information is handled when you use our mobile application (“SpeakOn Voice commands for Tesla") available on Google Play.
 1. Information Collection and Use
 We do not collect, store, transmit, or share any personal data or personally identifiable information.
 
